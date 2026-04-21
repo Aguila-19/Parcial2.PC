@@ -25,6 +25,7 @@ Este proyecto consiste en una app web para *Almacenes Siman*, empresa comercial 
 6. Para entrar al sistema usar:
    - Correo: admin@siman.com
    - Contraseña: Admin123*
+   - la contraseña mantiene el * al final
 
 ## Respuestas solicitadas
 
