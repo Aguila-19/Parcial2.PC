@@ -52,7 +52,6 @@ Finalmente, en un entorno real también sería importante aplicar *roles de usua
 ## Diccionario de datos
 
 ### Tabla: usuarios
-|---------|--------------|----------------------|-----------|------------------------------------|
 | Columna | Tipo de dato | Límite de caracteres | ¿Es nulo? | Descripción                        |
 |---------|--------------|----------------------|-----------|------------------------------------|
 | id      | INT          | 11                   | No        | Identificador único del usuario    |
@@ -60,9 +59,7 @@ Finalmente, en un entorno real también sería importante aplicar *roles de usua
 | correo  | VARCHAR      | 80                   | No        | Correo usado para iniciar sesión   |
 | clave   | VARCHAR      | 255                  | No        | Contraseña cifrada del usuario     |
 | rol     | VARCHAR      | 20                   | No        | Tipo de usuario dentro del sistema |
-|---------|--------------|----------------------|-----------|------------------------------------|
 ### Tabla: categorias
-|-------------|--------------|----------------------|-----------|--------------------------------------|
 | Columna     | Tipo de dato | Límite de caracteres | ¿Es nulo? | Descripción                          |
 |-------------|--------------|----------------------|-----------|--------------------------------------|
 | id          | INT          | 11                   | No        | Identificador de la categoría        |
@@ -70,9 +67,7 @@ Finalmente, en un entorno real también sería importante aplicar *roles de usua
 | area        | VARCHAR      | 50                   | No        | Área comercial a la que pertenece    |
 | activo      | ENUM         | 2 valores            | No        | Indica si la categoría está activa   |
 | observacion | VARCHAR      | 120                  | Sí        | Comentario adicional de la categoría |
-|-------------|--------------|----------------------|-----------|--------------------------------------|
 ### Tabla: productos
-|--------------|--------------|----------------------|-----------|----------------------------------|
 | Columna      | Tipo de dato | Límite de caracteres | ¿Es nulo? | Descripción                      |
 |--------------|--------------|----------------------|-----------|----------------------------------|
 | id           | INT          | 11                   | No        | Identificador del producto       |
@@ -83,5 +78,4 @@ Finalmente, en un entorno real también sería importante aplicar *roles de usua
 | estado       | ENUM         | 2 valores            | No        | Estado del producto              |
 | destacado    | ENUM         | 2 valores            | No        | Indica si es producto destacado  |
 | descripcion  | VARCHAR      | 150                  | Sí        | Detalle opcional del producto    |
-|--------------|--------------|----------------------|-----------|----------------------------------|
 
