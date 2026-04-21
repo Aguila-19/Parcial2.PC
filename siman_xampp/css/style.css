@@ -1,0 +1,15 @@
+*{box-sizing:border-box} body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f4f7fb;color:#1d2a39} 
+.container{width:min(1100px,92%);margin:auto}
+header{background:#0d47a1;color:#fff;padding:14px 0;box-shadow:0 2px 8px rgba(0,0,0,.1)}
+.nav{display:flex;justify-content:space-between;align-items:center;gap:20px}
+nav a{color:#fff;text-decoration:none;margin-left:14px;font-weight:bold}
+.hero,.card,table,form{background:#fff;border-radius:12px;box-shadow:0 4px 16px rgba(0,0,0,.08)}
+.hero{padding:28px;margin:25px 0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+.card{padding:20px;margin:20px 0} h1,h2,h3{margin-top:0}.btn{display:inline-block;background:#0d47a1;color:#fff;padding:10px 16px;border:none;border-radius:8px;text-decoration:none;cursor:pointer}
+.btn-danger{background:#c62828}.btn-secondary{background:#37474f}
+form{padding:24px;margin:25px 0} label{display:block;margin:12px 0 6px;font-weight:bold}
+input,select,textarea{width:100%;padding:10px;border:1px solid #b0bec5;border-radius:8px}
+.radio-group,.check-group{display:flex;gap:18px;flex-wrap:wrap;margin:10px 0}.radio-group label,.check-group label{font-weight:normal}
+.alert{padding:12px;border-radius:8px;margin:15px 0}.success{background:#e8f5e9;color:#1b5e20}.error{background:#ffebee;color:#b71c1c}
+table{width:100%;border-collapse:collapse;overflow:hidden;margin:24px 0} th,td{padding:12px;border-bottom:1px solid #eceff1;text-align:left} th{background:#e3f2fd}
+footer{background:#102027;color:#fff;padding:15px 0;margin-top:30px}.actions{display:flex;gap:10px;flex-wrap:wrap}.muted{color:#607d8b}.small{font-size:.92rem}
