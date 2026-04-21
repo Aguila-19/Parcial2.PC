@@ -1,11 +1,11 @@
 # Parcial2.PC
 
-# estudiantes
+## estudiantes
  David Alfonso Alvarenga bonilla.
  Fredys Alejandro Hernandez Robles.
 
-# Sistema Comercial Siman - PHP + MySQL + XAMPP
 
+# Sistema Comercial Siman - PHP + MySQL + XAMPP
 ## Descripción del proyecto
 Este proyecto consiste en una app web para *Almacenes Siman*, empresa comercial real, orientada al registro y consulta de productos. La aplicación permite que cualquier visitante visualice el catálogo de productos, pero únicamente un usuario registrado puede iniciar sesión para agregar nuevos productos al sistema.
 
