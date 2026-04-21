@@ -1,6 +1,6 @@
 # Parcial2.PC
 
-## estudiante David Alfonso Alvarenga bonilla.
+## estudiante David Alfonso Alvarenga Bonilla.
 ## estudiante Fredys Alejandro Hernandez Robles.
 
 
