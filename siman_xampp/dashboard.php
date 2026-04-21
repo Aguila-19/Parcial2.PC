@@ -48,7 +48,9 @@ $productos = $pdo->query("SELECT p.id, p.nombre, c.nombre AS categoria, p.precio
 include 'includes/header.php';
 ?>
 <div class="card">
+    
     <h2>Bienvenido, <?= htmlspecialchars($_SESSION['usuario_nombre']) ?></h2>
+
     <p>Desde este panel puedes registrar productos nuevos.</p>
 </div>
 <form method="POST" action="">

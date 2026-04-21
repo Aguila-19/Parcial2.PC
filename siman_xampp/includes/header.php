@@ -9,8 +9,12 @@
 </head>
 <body>
 <header>
+    <div class="logo-titulo">
+    <img src="img/logo.jpeg" alt="Logo Siman" class="logo-navbar">
+    <h1>Almacenes Siman</h1>
+</div>
     <div class="container nav">
-        <h1>Almacenes Siman</h1>
+        
         <nav>
             <a href="index.php">Inicio</a>
             <a href="productos.php">Catálogo</a>

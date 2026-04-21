@@ -1,5 +1,7 @@
 <?php include 'includes/header.php'; ?>
 <section class="hero">
+    <!-- LOGO ELIMINADO DE AQUÍ -->
+    
     <h2>Sistema de Inventario y Catálogo Comercial</h2>
     <p>Aplicación web para <strong>Almacenes Siman</strong> orientada al registro y consulta de productos. Los visitantes pueden ver el catálogo y los usuarios autorizados pueden iniciar sesión para agregar datos al sistema.</p>
     <div class="actions">
