@@ -1,5 +1,9 @@
 # Parcial2.PC
 
+# estudiantes
+David Alfonso Alvarenga bonilla
+Fredys Alejandro Hernandez Robles
+
 # Sistema Comercial Siman - PHP + MySQL + XAMPP
 
 ## Descripción del proyecto
