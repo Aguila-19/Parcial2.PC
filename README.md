@@ -1,8 +1,8 @@
 # Parcial2.PC
 
 # estudiantes
-David Alfonso Alvarenga bonilla
-Fredys Alejandro Hernandez Robles
+# David Alfonso Alvarenga bonilla.
+# Fredys Alejandro Hernandez Robles.
 
 # Sistema Comercial Siman - PHP + MySQL + XAMPP
 
